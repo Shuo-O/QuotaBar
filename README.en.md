@@ -1,9 +1,5 @@
 # QuotaBar
 
-<p align="center">
-  <img src="screenshots/menubar_text.png" alt="QuotaBar text mode" width="400"/>
-</p>
-
 [中文](README.md) | **English**
 
 A lightweight macOS menu bar app that shows real-time usage and reset countdowns for Claude Code and Codex.
@@ -38,17 +34,14 @@ A lightweight macOS menu bar app that shows real-time usage and reset countdowns
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/menubar_text.png" alt="Text mode" width="380"/>
-  <br><em>Text mode: C 53%  X 84%, color reflects urgency</em>
+  <img src="screenshots/menubar_text.png" alt="Text mode" width="240"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/menubar_ring.png" alt="Ring mode" width="160"/>
+  <br><em>Text mode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ring mode</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/menubar_ring.png" alt="Ring mode" width="380"/>
-  <br><em>Ring mode: bright sector = remaining, dark sector = used</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/menu_open.png" alt="Menu open" width="300"/>
+  <img src="screenshots/menu_open.png" alt="Menu open" width="240"/>
   <br><em>Menu: exact percentage + reset countdown</em>
 </p>
 

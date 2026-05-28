@@ -1,9 +1,5 @@
 # QuotaBar
 
-<p align="center">
-  <img src="screenshots/menubar_text.png" alt="QuotaBar 文字模式" width="400"/>
-</p>
-
 **中文** | [English](README.en.md)
 
 macOS 状态栏工具，实时显示 Claude Code 和 Codex 的用量与重置倒计时。
@@ -38,17 +34,14 @@ macOS 状态栏工具，实时显示 Claude Code 和 Codex 的用量与重置倒
 ## 截图
 
 <p align="center">
-  <img src="screenshots/menubar_text.png" alt="文字模式" width="380"/>
-  <br><em>文字模式：C 53%  X 84%，颜色反映紧张程度</em>
+  <img src="screenshots/menubar_text.png" alt="文字模式" width="240"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/menubar_ring.png" alt="图标环模式" width="160"/>
+  <br><em>文字模式 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 图标环模式</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/menubar_ring.png" alt="图标环模式" width="380"/>
-  <br><em>图标环模式：亮色扇形 = 剩余，暗色扇形 = 已用</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/menu_open.png" alt="菜单展开" width="300"/>
+  <img src="screenshots/menu_open.png" alt="菜单展开" width="240"/>
   <br><em>菜单：精确百分比 + 重置倒计时</em>
 </p>
 
